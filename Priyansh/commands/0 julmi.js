@@ -20,7 +20,7 @@ let name =  event.mentions[mention];
   var arraytag = [];
       arraytag.push({id: mention});
   var a = function (a) { api.sendMessage(a, event.threadID); }
-a("🔰𝙊𝙒𝙉𝙀𝙍 𝙄𝙉𝙁𝙊🔰\n\n ◉❖Jamal≛Ji❖◉\ (─━━◉❖JAMAL≛PATHAN❖◉━━─)(•◡•)\n\n𝐀𝐠𝐞 : 23\n\n𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 𝐖𝐢𝐭𝐡 :-🄿🅁🄴🄴🅃(ɴᴀᴅᴀɴ ʙᴄʜɪ)\n\n𝐅𝐫𝐨𝐦 : 𝐉𝐈𝐍𝐃(𝐇𝐀𝐑𝐘𝐀𝐍𝐀)\n\n𝐒𝐭𝐮𝐝𝐲 : 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠\n\n𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤👇👇 https://www.facebook.com/share/1G1bZCF1UY/\n\n𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐋𝐢𝐧𝐤:-👉 https://www.instagram.com/alex972740?igsh=MWNpbDFnMzYyM3p5Nw==
+a("🔰𝙊𝙒𝙉𝙀𝙍 𝙄𝙉𝙁𝙊🔰\n\n ◉❖Jamal≛Ji❖◉\ (─━━◉❖JAMALPATHAN❖◉━━─)(•◡•)\n\n𝐀𝐠𝐞 : 24\n\n𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 𝐖𝐢𝐭𝐡 :-alisha)\n\n𝐅𝐫𝐨𝐦 : 𝐉𝐈𝐍𝐃(𝐇𝐀𝐑𝐘𝐀𝐍𝐀)\n\n𝐒𝐭𝐮𝐝𝐲 : 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠\n\n𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤👇👇 https://www.facebook.com/share/1G1bZCF1UY/\n\n𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐋𝐢𝐧𝐤:-👉 https://www.instagram.com/alex972740?igsh=MWNpbDFnMzYyM3p5Nw==
 
 
 }
